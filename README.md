@@ -48,14 +48,14 @@ Things I am using
 - [BalenaEtcher](https://etcher.balena.io/)
     - brew install --cask balenaetcher
 - [fliqlo](https://fliqlo.com/) - Flip clock screensaver
-    - Flip clock screensaver
+    - brew install --cask fliqlo
 
 ### DEV
 
 - [iTerm2](https://iterm2.com/)
     - brew install --cask iterm2
 - [Oh-My-Zsh](https://ohmyz.sh/)
-    - Config: [.zshrc](https://github.com/linstohu/use/blob/main/.zshrc)
+    - Config: [linstohu/.zshrc](https://github.com/linstohu/use/blob/main/.zshrc)
 - [autojump](https://github.com/wting/autojump)
     - brew install autojump
 - [loc](https://github.com/cgag/loc)
@@ -70,7 +70,7 @@ Things I am using
     - brew install go
 - [Visual Studio Code](https://code.visualstudio.com/)
     - brew install --cask visual-studio-code
-    - Config: [settings.json](https://github.com/linstohu/use/blob/main/settings.json)
+    - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
 - [Docker](https://www.docker.com/products/docker-desktop/)
     - brew install --cask docker
 - [Wireshark](https://www.wireshark.org/)
@@ -78,6 +78,6 @@ Things I am using
 - [Postman](https://www.postman.com/)
     - brew install --cask dbeaver-community
 - [DBeaver Community Edition](https://dbeaver.io/)
-    - https://dbeaver.io/
+    - brew install --cask dbeaver-community
 - [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
     - brew install --cask another-redis-desktop-manager
