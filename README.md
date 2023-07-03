@@ -27,10 +27,10 @@ Things I am using
 
 ### 日常工具
 
-- [Google Chrome](https://www.google.com/chrome/)
+- ~~[Google Chrome](https://www.google.com/chrome/)~~
 - [Microsoft Edge](https://www.microsoft.com/edge)
-- [Homebrew](https://brew.sh/)
 - [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
+- [Homebrew](https://brew.sh/)
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Magnet](https://magnet.crowdcafe.com/)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
@@ -43,34 +43,30 @@ Things I am using
     - brew install --cask shottr
 - [IINA](https://github.com/iina/iina)
     - brew install --cask iina
-- [Obsidian](https://obsidian.md/)
-    - brew install --cask obsidian
-- [BalenaEtcher](https://etcher.balena.io/)
-    - brew install --cask balenaetcher
 - [fliqlo](https://fliqlo.com/) - Flip clock screensaver
     - brew install --cask fliqlo
 
 ### DEV
 
+- [Visual Studio Code](https://code.visualstudio.com/)
+    - brew install --cask visual-studio-code
+    - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
 - [iTerm2](https://iterm2.com/)
     - brew install --cask iterm2
 - [Oh-My-Zsh](https://ohmyz.sh/)
     - Config: [linstohu/.zshrc](https://github.com/linstohu/use/blob/main/.zshrc)
+- [Go](https://go.dev/)
+    - brew install go
+- [Node.js](https://nodejs.org/)
+    - brew install node
+- [guser](https://github.com/krnsk0/guser)
+    - npm i -g guser
 - [autojump](https://github.com/wting/autojump)
     - brew install autojump
 - [loc](https://github.com/cgag/loc)
     - brew install loc (Count lines of code quickly)
 - [Neofetch](https://github.com/dylanaraps/neofetch)
     - brew install neofetch
-- [Node.js](https://nodejs.org/)
-    - brew install node
-- [guser](https://github.com/krnsk0/guser)
-    - npm i -g guser
-- [Go](https://go.dev/)
-    - brew install go
-- [Visual Studio Code](https://code.visualstudio.com/)
-    - brew install --cask visual-studio-code
-    - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
 - [Docker](https://www.docker.com/products/docker-desktop/)
     - brew install --cask docker
 - [Wireshark](https://www.wireshark.org/)
