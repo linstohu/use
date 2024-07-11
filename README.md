@@ -68,8 +68,6 @@ Things I am using
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
-- [iTerm2](https://iterm2.com/)
-  - brew install --cask iterm2
 - [Oh-My-Zsh](https://ohmyz.sh/)
   - Config: [linstohu/.zshrc](https://github.com/linstohu/use/blob/main/.zshrc)
 - [Go](https://go.dev/)

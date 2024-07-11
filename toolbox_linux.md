@@ -2,12 +2,32 @@
 
 ## Most Recently Used 
 
-- VIM
-- emacs
+> RTFM + STFW
+
+- vim
 - tmux
-- git
+- man
+- tldr
+- tar
+- file
+- find
+- tee
+- xargs
 - grep
-- sed
 - awk
+- sed
+- sort
+- wc
+- uniq
+- cut
+- tr
+- git
+- jobs
+- ps
+- top
+- kill
+- free
+- dmesg
+- lsof
 
 ## Domain-Based Used
