@@ -25,6 +25,9 @@ Things I am using
 - 三指拖拽: System Settings > Pointer Control > Trackpad Options > Use trackpad for dragging
 - 关闭Handoff: General > Aridrop & Handoff > Allow handoff...[off]
 - 卷动缩放画面: 辅助>缩放>使用手势搭配变更来缩放，可快速缩放屏幕(use scroll gesture...)
+- Terminal.app:
+    - Settings > Profiles > Keyboard > 删除 Option + 上下左右键的映射(目的: 不要影响 tmux 的操作)
+    - Settings > Profiles > Keyboard > Use Option as Meta key[on]
 - 改键
     - System Settings > Keyboard > Keyboard Shortcuts > Modifier Keys
     - Select Keyboard > Apple Internal Keyboard
@@ -50,19 +53,18 @@ Things I am using
 ### 日常工具
 
 - [Microsoft Edge](https://www.microsoft.com/edge)
-- [~~Google Chrome~~](https://www.google.com/chrome/)
 - [Surge Mac](https://nssurge.com/)
 - [1Password](https://1password.com/downloads/mac/)
 - [OneSwitch](https://fireball.studio/oneswitch/)
 - [Bartender](https://www.macbartender.com/)
 - [Magnet](https://magnet.crowdcafe.com/)
-- [微信输入法](https://z.weixin.qq.com/)
 - [Homebrew](https://brew.sh/)
+- [CleanShot X](https://cleanshot.com/)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
   - brew install --cask monitorcontrol
+- [微信输入法](https://z.weixin.qq.com/)
 - [Mac Mouse Fix](https://mousefix.org/)
   - brew install --cask mac-mouse-fix
-- [CleanShot X](https://cleanshot.com/)
 
 ### DEV
 
@@ -74,7 +76,9 @@ Things I am using
   - brew install go
 - [Node.js](https://nodejs.org/)
   - brew install node
-- [guser](https://github.com/krnsk0/guser)
-  - npm i -g guser
 - [autojump](https://github.com/wting/autojump)
   - brew install autojump
+- [tldr](https://tldr.sh)
+  - npm install -g tldr
+- [guser](https://github.com/krnsk0/guser)
+  - npm i -g guser

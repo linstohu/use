@@ -1,6 +1,6 @@
 # Toolbox for Linux
 
-## Most Recently Used 
+## Most Recently Used
 
 > RTFM + STFW
 
@@ -8,19 +8,19 @@
 - tmux
 - man
 - tldr
-- tar
-- file
-- find
-- tee
-- xargs
 - grep
+- regex.
+- find
 - awk
 - sed
+- tee
+- xargs
 - sort
 - wc
 - uniq
 - cut
 - tr
+- tar
 - git
 - jobs
 - ps
