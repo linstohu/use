@@ -1,0 +1,87 @@
+[sendpack]
+	sideband = false
+[core]
+	excludesfile = ~/.gitignore
+	editor = vim
+[color]
+	ui = auto
+[http]
+ 	postBuffer = 524288000
+[credential]
+	helper = cache
+[diff]
+	wsErrorHighlight = all
+[uploadpack]
+	allowFilter = true
+[rebase]
+	autosquash = true
+[rerere]
+	enabled = true
+[merge]
+	tool = vimdiff
+
+[alias]
+	# 查看当前分支的简要历史
+	lg = log --color --graph --pretty=tformat:'%Cred%h%Creset -%C(magenta)%d %Cgreen(%aI)%Creset %s %C(bold blue)<%an>%G?<%cn>%Creset' --abbrev-commit
+	# 查看当前分支的历史文件修改摘要
+	ls = log --color --graph --pretty=tformat:'%Cred%h%Creset -%C(magenta)%d %Cgreen(%aI)%Creset %s %C(bold blue)<%an>%G?<%cn>%Creset' --abbrev-commit --decorate --numstat
+	# 查看整个repo的简要历史
+	la = log --color --graph --pretty=tformat:'%Cred%h%Creset -%C(magenta)%d %Cgreen(%aI)%Creset %s %C(bold blue)<%an>%G?<%cn>%Creset' --abbrev-commit --all
+	las = log --color --graph --pretty=tformat:'%Cred%h%Creset -%C(magenta)%d %Cgreen(%aI)%Creset %s %C(bold blue)<%an>%G?<%cn>%Creset' --abbrev-commit --all --simplify-by-decoration
+	# 查看当前分支的历史文件修改详情，包括每次提交的代码差异
+	lp = log -p
+
+	# 用于列出所有本地和远程分支及其信息
+	br = branch
+	bra = branch -av
+	branches = branch -av
+
+	# 用于显示分支和提交信息
+	sb = show-branch
+	# 显示简化状态信息
+	st = status
+	sta = status -sb
+
+	# switch 命令的别名，用于切换分支或进入分离头指针状态
+	sw = switch
+	de = switch --detach
+
+	fe = fetch # 执行获取提交差异
+	fep = fetch -p
+	fpa = fetch --prune --all
+
+	ch = cherry -v # 查看提交差异
+	d = diff # 显示工作目录与暂存区差异
+	dc = diff --cached # 仅显示暂存区的差异
+
+	pf = pull --ff-only
+
+	a = add
+	ap = add -p
+
+	# 各种 commit 命令的别名
+	cm = commit -uno
+	ca = commit -uno -a
+	ac = !git add -A && git commit
+
+	pu = push
+	pt = push --tags
+	pnf = push --force-with-lease
+
+	# 用于将指定的提交应用到当前分支
+	cp = cherry-pick
+	cpnc = cherry-pick --no-commit
+
+	# 不同形式的 merge 命令别名，适用于不同的合并策略，如 --ff-only、--no-ff 和 subtree 策略
+	mf = merge --ff-only
+	mnf = merge --no-ff
+	mnfnc = merge --no-ff --no-commit
+
+	# restore 命令的别名，用于恢复文件到不同状态（例如从 HEAD 或暂存区恢复）
+	r = restore --source
+	rw = restore --worktree
+	rwp = restore --worktree -p
+	rs = restore --source HEAD --staged
+	rsp = restore --source HEAD --staged -p
+	rsw = restore --source HEAD --staged --worktree
+	rswp = restore --source HEAD --staged --worktree -p
