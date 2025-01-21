@@ -13,3 +13,6 @@ export ZSH="$HOME/.oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
 
 zstyle ':omz:update' mode disabled # disable automatic updates
+
+alias python=/usr/bin/python3
+alias pip=/usr/bin/pip3
