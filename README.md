@@ -69,12 +69,14 @@ Things I am using
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
+- [Zed](https://zed.dev/)
 - [Oh-My-Zsh](https://ohmyz.sh/)
   - Config: [linstohu/.zshrc](https://github.com/linstohu/use/blob/main/.zshrc)
+- [Atuin](https://atuin.sh/) - Search shell history
 - [Go](https://go.dev/)
-  - brew install go
-- [Node.js](https://nodejs.org/)
-  - brew install node
+- [Rust](https://www.rust-lang.org/)
+- [Node.js](https://nodejs.org/) with nvm
+- [OrbStack](https://orbstack.dev/)
 - [autojump](https://github.com/wting/autojump)
   - brew install autojump
 - [guser](https://github.com/krnsk0/guser)
