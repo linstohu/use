@@ -60,6 +60,7 @@ Things I am using
 - [OneSwitch](https://fireball.studio/oneswitch/)
 - [Bartender](https://www.macbartender.com/)
 - [Magnet](https://magnet.crowdcafe.com/)
+- [1Capture](https://apps.apple.com/cn/app/1capture-screenshot/id6742318274?l=en-GB&mt=12)
 - [Homebrew](https://brew.sh/)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
   - brew install --cask monitorcontrol
@@ -79,5 +80,3 @@ Things I am using
 - [OrbStack](https://orbstack.dev/)
 - [autojump](https://github.com/wting/autojump)
   - brew install autojump
-- [guser](https://github.com/krnsk0/guser)
-  - npm i -g guser

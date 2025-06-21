@@ -1,12 +1,10 @@
 aaron-bond.better-comments
 eamodio.gitlens
-esbenp.prettier-vscode
 fill-labs.dependi
 golang.go
 hdevalke.rust-test-lens
 swellaby.vscode-rust-test-adapter
 rust-lang.rust-analyzer
-humao.rest-client
 oderwat.indent-rainbow
 redhat.vscode-yaml
 tamasfe.even-better-toml
