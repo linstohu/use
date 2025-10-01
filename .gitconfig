@@ -6,7 +6,7 @@
 [color]
 	ui = auto
 [http]
- 	postBuffer = 524288000
+	postBuffer = 524288000
 [credential]
 	helper = cache
 [diff]

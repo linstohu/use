@@ -1,5 +1,12 @@
 # Raspberry Pi
 
+## INIT
+
+- sudo update-alternatives --config editor
+- sudo visudo > NOPASSWD
+- sudo vim /etc/netplan/01-netcfg.yaml
+- docker
+
 ## 更改 TTY 终端字体
 
 ```bash

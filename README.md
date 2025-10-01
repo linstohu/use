@@ -78,5 +78,3 @@ Things I am using
 - [Rust](https://www.rust-lang.org/)
 - [Node.js](https://nodejs.org/) with nvm
 - [OrbStack](https://orbstack.dev/)
-- [autojump](https://github.com/wting/autojump)
-  - brew install autojump

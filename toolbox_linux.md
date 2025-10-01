@@ -4,9 +4,14 @@
 
 > RTFM + STFW
 
+- man
 - vim
 - tmux
-- man
+- top
+- htop
+- bat
+- eza
+- zoxide
 - tldr
 - grep
 - regex.
@@ -24,7 +29,6 @@
 - git
 - jobs
 - ps
-- top
 - kill
 - free
 - dmesg

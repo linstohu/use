@@ -14,5 +14,10 @@ source $ZSH/oh-my-zsh.sh
 
 zstyle ':omz:update' mode disabled # disable automatic updates
 
+alias ls="eza"
+alias ll="eza -l --icons --git"
+alias la="eza -la --icons --git"
+alias cat="batcat"
+
 alias python=/usr/bin/python3
 alias pip=/usr/bin/pip3
