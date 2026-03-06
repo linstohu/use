@@ -68,13 +68,14 @@ Things I am using
 
 ### DEV
 
+- [Go](https://go.dev/)
+- [Rust](https://www.rust-lang.org/)
+- [Node.js](https://nodejs.org/) with nvm
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
+- [Google Antigravity](https://antigravity.google/)
 - [Zed](https://zed.dev/)
 - [Oh-My-Zsh](https://ohmyz.sh/)
   - Config: [linstohu/.zshrc](https://github.com/linstohu/use/blob/main/.zshrc)
 - [Atuin](https://atuin.sh/) - Search shell history
-- [Go](https://go.dev/)
-- [Rust](https://www.rust-lang.org/)
-- [Node.js](https://nodejs.org/) with nvm
 - [OrbStack](https://orbstack.dev/)
