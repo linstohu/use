@@ -75,7 +75,6 @@ Things I am using
   - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
 - [Google Antigravity](https://antigravity.google/)
 - [Zed](https://zed.dev/)
-- [Oh-My-Zsh](https://ohmyz.sh/)
-  - Config: [linstohu/.zshrc](https://github.com/linstohu/use/blob/main/.zshrc)
+- [Fish Shell](https://fishshell.com/)
 - [Atuin](https://atuin.sh/) - Search shell history
 - [OrbStack](https://orbstack.dev/)
