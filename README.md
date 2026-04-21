@@ -71,10 +71,11 @@ Things I am using
 - [Go](https://go.dev/)
 - [Rust](https://www.rust-lang.org/)
 - [Node.js](https://nodejs.org/) with nvm
+- [Python with UV](https://docs.astral.sh/uv/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-  - Config: [linstohu/settings.json](https://github.com/linstohu/use/blob/main/settings.json)
-- [Google Antigravity](https://antigravity.google/)
 - [Zed](https://zed.dev/)
 - [Fish Shell](https://fishshell.com/)
-- [Atuin](https://atuin.sh/) - Search shell history
 - [OrbStack](https://orbstack.dev/)
+- [iTerm2](https://iterm2.com/)
+  - Color Theme: [Material Design](https://github.com/MartinSeeler/iterm2-material-design)
+- [Atuin](https://atuin.sh/) - Search shell history
