@@ -62,8 +62,6 @@ Things I am using
 - [Magnet](https://magnet.crowdcafe.com/)
 - [1Capture](https://apps.apple.com/cn/app/1capture-screenshot/id6742318274?l=en-GB&mt=12)
 - [Homebrew](https://brew.sh/)
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
-  - brew install --cask monitorcontrol
 - [微信输入法](https://z.weixin.qq.com/)
 
 ### DEV
@@ -78,4 +76,5 @@ Things I am using
 - [OrbStack](https://orbstack.dev/)
 - [iTerm2](https://iterm2.com/)
   - Color Theme: [Material Design](https://github.com/MartinSeeler/iterm2-material-design)
+- [Table Plus](https://tableplus.com/)
 - [Atuin](https://atuin.sh/) - Search shell history
